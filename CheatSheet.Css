@@ -1,0 +1,56 @@
+
+
+body{
+    background-color: cornsilk;
+    margin: 0 auto;
+}
+header{
+    height:100px;
+    background-color: darkgoldenrod;
+    width: 100%;
+}
+nav{
+    text-align: center;
+    padding-top: 30px;
+}
+
+ul{
+    display: block;
+    list-style-type: none;
+    padding: 0;
+}
+
+li{
+    display: inline-block;
+    padding: 0 10%;
+}
+
+table{
+    background-color: cornsilk;
+    border: solid 2px goldenrod;
+    margin: 20px;
+}
+
+h1, h2{
+    width: 300px;
+    margin: 0 0 0 39%;
+    text-align: center;
+    display: block;
+    color: goldenrod;
+    background-color: lightgoldenrodyellow
+}
+
+td{
+    text-align: center;
+    border: solid 1px goldenrod;
+    color: red;
+}
+
+.Tables{
+    background-color: darkmagenta;
+    padding-bottom: 40px;
+}
+
+
+
+
